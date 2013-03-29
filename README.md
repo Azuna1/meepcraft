@@ -1,4 +1,7 @@
 meepcraft
 =========
 
-randombullshit
+mod collection for meepcraft
+current mods:
+-RenderCache for client
+--Vanilla plugin, load with any modloader
